@@ -1,0 +1,15 @@
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\bin\Debug\net10.0\Module04_ExceptionHandling.exe
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\bin\Debug\net10.0\Module04_ExceptionHandling.deps.json
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\bin\Debug\net10.0\Module04_ExceptionHandling.runtimeconfig.json
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\bin\Debug\net10.0\Module04_ExceptionHandling.dll
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\bin\Debug\net10.0\Module04_ExceptionHandling.pdb
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.AssemblyInfo.cs
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.sourcelink.json
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.dll
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\refint\Module04_ExceptionHandling.dll
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.pdb
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\Module04_ExceptionHandling.genruntimeconfig.cache
+C:\Users\kenke\OneDrive\Documents\GitHub\COP2360\Module04_ExceptionHandling\obj\Debug\net10.0\ref\Module04_ExceptionHandling.dll
